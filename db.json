@@ -1,6 +1,6 @@
-[
+
     { "id": 1, "name": "ABS Projects" },
     { "id": 2, "name": "Infrasture" },
     { "id": 3, "name": "Security" },
     { "id": 4, "name": "Other" }
-  ]
+  
